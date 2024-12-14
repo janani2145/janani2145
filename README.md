@@ -11,11 +11,6 @@
 ### 🚀 About Me  
 Passionate about crafting visually stunning and user-friendly web applications that bring ideas to life. My journey as a frontend developer is fueled by a love for clean code, vibrant designs, and seamless user experiences.
 
-✨ **What I do**:
-- Design & develop interactive, responsive websites
-- Build elegant UI components with **React.js**
-- Create dynamic user interfaces and optimize performance
-
 🌱 Currently exploring **Advanced React Patterns**  
 💼 Currently working at **EBrain Technologies** as a **Frontend Developer**  
 👯 Open to collaborating on **Interactive Dashboards**  
@@ -47,18 +42,27 @@ Passionate about crafting visually stunning and user-friendly web applications t
 
 ---
 
-### 🌟 Featured Projects  
-#### Attendance Management System  
-- A **real-time check-in/out** system with robust dashboards and JWT authentication.  
-- Built with **React.js**, **Bootstrap**, and **Chart.js**.  
+### 🌟 Featured Projects
 
-#### Allwin Digital Website  
-- A responsive **static website** with smooth animations and interactive features.  
-- Designed using **React.js** and **CSS**.  
+### Allwin Digital Website
+- Developed a responsive static website for **Allwin Digital** (Chennai) using **React JS**, incorporating simple hooks and smooth animations.
+- Ensured optimal viewing across all devices and tailored features to meet customer preferences.
+- Executed interactive elements with **React Icons** and **CSS** for an engaging user experience.
+- Blended social media and contact options for enhanced user interaction.
+- [Allwin Digital](https://allwindigital-vadapalani.web.app/) 
 
-#### Quick Receipt  
-- A **receipt generation app** for quick and easy creation of digital receipts.  
-- Built with **React.js** for a seamless frontend experience.
+### Attendance Management System
+- Expanded an **Attendance Management System** using **React**, **Bootstrap**, and **Axios**.
+- Enforced real-time check-in/check-out functionality with dynamic status updates.
+- Enabled **JWT-based authentication** for secure login and session management.
+- Created and customized data visualizations (Doughnut and Bar charts) with **Chart JS**.
+- Applied robust error handling and user-friendly design principles for a smooth user experience.
+
+### Quick Receipt Application
+- Developed the frontend of a **Quick Receipt** application using **React** and **Bootstrap**, ensuring a seamless and responsive user interface.
+- Collaborated with the backend team to integrate **RESTful APIs**, enabling secure and efficient receipt data management.
+- Designed an intuitive step-by-step receipt generation process with features like real-time calculations for totals, taxes, and discounts, dynamic currency selection, and date pickers.
+
 
 ---
 
