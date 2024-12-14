@@ -1,5 +1,7 @@
 # Hi there 👋 It's me, **Janani Veeramani**  
 
+🔗 Check out my portfolio: [(https://jananiveeramani-f5772.web.app/)](https://jananiveeramani-f5772.web.app/)
+
 🌐 **Frontend Developer** | 🎨 **Creative Thinker**  
 
 <p><em>Crafting immersive user experiences with clean code and creative designs</em></p>
@@ -18,7 +20,6 @@ Passionate about crafting visually stunning and user-friendly web applications t
 💼 Currently working at **EBrain Technologies** as a **Frontend Developer**  
 👯 Open to collaborating on **Interactive Dashboards**  
 💬 Ask me about **React.js**, **CSS**, and **Web Performance**
-
 
 ---
 
