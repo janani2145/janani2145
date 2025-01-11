@@ -82,9 +82,8 @@ Passionate about crafting visually stunning and user-friendly web applications t
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 Leetcode Stats  
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=janani2145&theme=radical&show_icons=true&hide=issues,contribs" alt="GitHub stats" />
   <img height="150" src="https://leetcard.jacoblin.cool/JananiVeeramani?ext=contest&theme=dark" alt="Leetcode stats" />
 </p>
 
