@@ -12,7 +12,7 @@
 Passionate about crafting visually stunning and user-friendly web applications that bring ideas to life. My journey as a frontend developer is fueled by a love for clean code, vibrant designs, and seamless user experiences.
 
 🌱 Currently exploring **Advanced React Patterns**  
-💼 Currently working at **EBrain Technologies** as a **Frontend Developer**  
+💼 Currently working at **Tevel Cyber Corps Private Limited** as a **Frontend Developer**  
 👯 Open to collaborating on **Interactive Dashboards**  
 💬 Ask me about **React.js**, **CSS**, and **Web Performance**
 
