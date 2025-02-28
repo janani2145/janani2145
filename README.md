@@ -89,12 +89,6 @@ Passionate about crafting visually stunning and user-friendly web applications t
 
 ---
 
-### 🌟 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janani2145&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
----
 
 ### 🌟 Fun Facts About Me  
 - 🎨 I believe **design is thinking made visual**!  
