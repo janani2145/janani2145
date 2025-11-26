@@ -6,7 +6,11 @@
 
 <p><em>Crafting immersive user experiences with clean code and creative designs</em></p>
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<p align="start">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  width="250" />
+</p>
+ 
 
 ### 🚀 About Me  
 Passionate about crafting visually stunning and user-friendly web applications that bring ideas to life. My journey as a frontend developer is fueled by a love for clean code, vibrant designs, and seamless user experiences.
