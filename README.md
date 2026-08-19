@@ -1,176 +1,105 @@
-<div align="center">
+# Hi there 👋 It's me, **Janani Veeramani**  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=140&section=header&text=&fontSize=0" width="100%"/>
+🔗 Check out my portfolio: [(https://janani-veeramani.vercel.app/)](https://janani-veeramani.vercel.app/)
 
-<br/>
+🌐 **Frontend Developer** | 🎨 **Creative Thinker**  
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=2800&pause=1000&color=E6EDF3&center=true&vCenter=true&width=680&height=60&lines=Janani+Veeramani" alt="name" />
+<p><em>Crafting immersive user experiences with clean code and creative designs</em></p>
 
-<sub><b>FRONTEND&nbsp;DEVELOPER</b></sub>
+<p align="start">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  width="250" />
+</p>
+ 
 
-<p width="500"><sub>Building modern digital experiences with clean architecture,<br/>thoughtful interaction, and a strong eye for detail.</sub></p>
+### 🚀 About Me  
+Passionate about crafting visually stunning and user-friendly web applications that bring ideas to life. My journey as a frontend developer is fueled by a love for clean code, vibrant designs, and seamless user experiences.
 
-<br/>
+🌱 Currently exploring **Advanced React Patterns**  
+💼 Currently working at **Tevel Cyber Corps Private Limited** as a **Frontend Developer**  
+👯 Open to collaborating on **Interactive Dashboards**  
+💬 Ask me about **React.js**, **CSS**, and **Web Performance**
 
-<a href="https://janani-veeramani.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-21262D?style=for-the-badge&logoColor=white&labelColor=21262D&color=21262D"/></a>
-<a href="https://www.linkedin.com/in/janani-veeramani-076a652b9/"><img src="https://img.shields.io/badge/LINKEDIN-21262D?style=for-the-badge&logoColor=white&labelColor=21262D&color=21262D"/></a>
-<a href="https://github.com/JananiVeeramani"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logoColor=white&labelColor=21262D&color=21262D"/></a>
-<a href="mailto:jananiv1161@gmail.com"><img src="https://img.shields.io/badge/EMAIL-21262D?style=for-the-badge&logoColor=white&labelColor=21262D&color=21262D"/></a>
+---
 
-</div>
+### 🛠️ Skills & Tools  
 
-<br/>
+#### 🖥️ **Languages & Frameworks**  
+<p>
+   <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+   <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo.png" alt="external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+ 
 
-<div align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</div>
+</p>
 
-<br/>
+#### ⚙️ **Tools & IDEs**  
+<p>
+  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+</p>
 
-### `01` &nbsp;About
+---
 
-I'm a Frontend Developer focused on responsive web development, interactive interfaces, and UI engineering. I currently work at **Tevel Cyber Corps Private Limited**, building production applications with an emphasis on reusable component systems and frontend performance.
+### 🌟 Featured Projects
 
-My approach centers on turning design intent into interfaces that feel considered — structured, consistent, and built to scale.
+### Allwin Digital Website
+- Developed a responsive static website for **Allwin Digital** (Chennai) using **React JS**, incorporating simple hooks and smooth animations.
+- Ensured optimal viewing across all devices and tailored features to meet customer preferences.
+- Executed interactive elements with **React Icons** and **CSS** for an engaging user experience.
+- Blended social media and contact options for enhanced user interaction.
+- [Allwin Digital](https://allwindigital-vadapalani.web.app/) 
 
-<br/>
+### Attendance Management System
+- Expanded an **Attendance Management System** using **React**, **Bootstrap**, and **Axios**.
+- Enforced real-time check-in/check-out functionality with dynamic status updates.
+- Enabled **JWT-based authentication** for secure login and session management.
+- Created and customized data visualizations (Doughnut and Bar charts) with **Chart JS**.
+- Applied robust error handling and user-friendly design principles for a smooth user experience.
 
-### `02` &nbsp;What I Build
+### Quick Receipt Application
+- Developed the frontend of a **Quick Receipt** application using **React** and **Bootstrap**, ensuring a seamless and responsive user interface.
+- Collaborated with the backend team to integrate **RESTful APIs**, enabling secure and efficient receipt data management.
+- Designed an intuitive step-by-step receipt generation process with features like real-time calculations for totals, taxes, and discounts, dynamic currency selection, and date pickers.
 
-<table>
-<tr>
-<td width="25%" align="center"><b>Interactive Web<br/>Applications</b><br/><sub>Responsive interfaces with thoughtful interactions, animation, and usability.</sub></td>
-<td width="25%" align="center"><b>Learning<br/>Platforms</b><br/><sub>Interactive learning experiences with structured journeys and progress tracking.</sub></td>
-<td width="25%" align="center"><b>Enterprise Interfaces<br/>/ Dashboards</b><br/><sub>Clean, data-driven interfaces built around real-world workflows.</sub></td>
-<td width="25%" align="center"><b>Modular UI<br/>Systems</b><br/><sub>Reusable frontend components and scalable interface patterns.</sub></td>
-</tr>
-</table>
 
-<br/>
+---
 
-### `03` &nbsp;Tech Stack
+### 📫 How to Reach Me  
 
-<div align="center">
+<p align="start">
+  <a href="mailto:jananiv1161@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/janani-veeramani-076a652b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/JananiVeeramani">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vite,git,github,vscode&theme=dark&perline=10" alt="Tech Stack" />
+---
 
-<br/><br/>
+### 📊 Leetcode Stats  
+<p>
+  <img height="150" src="https://leetcard.jacoblin.cool/JananiVeeramani?ext=contest&theme=dark" alt="Leetcode stats" />
+</p>
 
-`Framer Motion` &nbsp;·&nbsp; `PrimeReact` &nbsp;·&nbsp; `Recharts` &nbsp;·&nbsp; `React Router`
+---
 
-</div>
 
-<br/>
+### 🌟 Fun Facts About Me  
+- 🎨 I believe **design is thinking made visual**!  
+- 🌟 I love solving coding challenges on [LeetCode](https://leetcode.com/JananiVeeramani).  
+- ✨ Building dashboards is my **happy place**.
 
-### `04` &nbsp;Selected Work
+---
 
-<br/>
-
-<details open>
-<summary><b>01 · Cyber Bay</b> — <i>Interactive Learning &amp; Challenge Platform</i></summary>
-<br/>
-
-A hands-on technical learning experience with interactive challenges, lab environments, learning journeys, and performance tracking.
-
-`React` `Tailwind CSS` `Framer Motion` `PrimeReact` `REST APIs`
-
-</details>
-
-<details>
-<summary><b>02 · Tevel Cyber Website</b> — <i>Corporate Website</i></summary>
-<br/>
-
-A modern responsive corporate website focused on presenting services, solutions, and the company's digital presence.
-
-**[View Live →](https://janani-veeramani.vercel.app/)**
-
-</details>
-
-<details>
-<summary><b>03 · Tevel Techno Website</b> — <i>Corporate Website</i></summary>
-<br/>
-
-A responsive business website with structured content, modern layouts, and interactive frontend experiences.
-
-`HTML5` `CSS3` `Bootstrap` `JavaScript` `GSAP`
-
-**[View Live →](https://janani-veeramani.vercel.app/)**
-
-</details>
-
-<details>
-<summary><b>04 · Naveen Portfolio</b> — <i>Personal Portfolio Website</i></summary>
-<br/>
-
-A modern personal portfolio focused on presenting professional work, skills, and digital experiences through a responsive interface.
-
-**[View Live →](https://janani-veeramani.vercel.app/)**
-
-</details>
-
-<br/>
-
-### `05` &nbsp;Experience
-
-> **Frontend Developer** — Tevel Cyber Corps Private Limited
-> `2025 — Present`
-> Building modern web platforms and interactive learning experiences, with a focus on reusable React components, responsive UI, API-integrated frontends, and production frontend development.
-
-> **Frontend Developer** — Ebrain Technologies
-> `2023 — 2025`
-> Worked on frontend development, contributing to responsive, interactive web interfaces.
-
-<br/>
-
-### `06` &nbsp;Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Advanced_React_Patterns-21262D?style=flat-square&color=21262D&labelColor=21262D"/>
-<img src="https://img.shields.io/badge/Frontend_Performance-21262D?style=flat-square&color=21262D&labelColor=21262D"/>
-<img src="https://img.shields.io/badge/Interactive_UI_%26_Motion-21262D?style=flat-square&color=21262D&labelColor=21262D"/>
-<img src="https://img.shields.io/badge/Scalable_Component_Architecture-21262D?style=flat-square&color=21262D&labelColor=21262D"/>
-<img src="https://img.shields.io/badge/Modern_Web_Experiences-21262D?style=flat-square&color=21262D&labelColor=21262D"/>
-
-</div>
-
-<br/>
-
-### `07` &nbsp;On GitHub
-
-<div align="center">
-
-<sub>Code, experiments, and work in progress — best explored directly on <a href="https://github.com/JananiVeeramani">GitHub</a>.</sub>
-
-</div>
-
-<br/>
-
-### `08` &nbsp;Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JananiVeeramani&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=E6EDF3&point=FFFFFF" width="97%" alt="Activity Graph" />
-
-</div>
-
-<br/>
-
-<div align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</div>
-
-<br/>
-
-<div align="center">
-
-### Connect
-
-<a href="https://janani-veeramani.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-21262D?style=for-the-badge&logoColor=white&labelColor=21262D&color=21262D"/></a>
-<a href="https://www.linkedin.com/in/janani-veeramani-076a652b9/"><img src="https://img.shields.io/badge/LINKEDIN-21262D?style=for-the-badge&logoColor=white&labelColor=21262D&color=21262D"/></a>
-<a href="https://github.com/JananiVeeramani"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logoColor=white&labelColor=21262D&color=21262D"/></a>
-<a href="mailto:jananiv1161@gmail.com"><img src="https://img.shields.io/badge/EMAIL-21262D?style=for-the-badge&logoColor=white&labelColor=21262D&color=21262D"/></a>
-
-<br/><br/>
-
-<sub><i>Designed &amp; built with curiosity, clean code, and a little ✨</i></sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" width="100%"/>
+### 🌟 Let's Create Together!  
+Looking for a **creative thinker** to bring your vision to life? Reach out, and let's collaborate!
