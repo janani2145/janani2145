@@ -48,26 +48,26 @@ Passionate about crafting visually stunning and user-friendly web applications t
 
 ### 🌟 Featured Projects
 
-### Allwin Digital Website
-- Developed a responsive static website for **Allwin Digital** (Chennai) using **React JS**, incorporating simple hooks and smooth animations.
-- Ensured optimal viewing across all devices and tailored features to meet customer preferences.
-- Executed interactive elements with **React Icons** and **CSS** for an engaging user experience.
-- Blended social media and contact options for enhanced user interaction.
-- [Allwin Digital](https://allwindigital-vadapalani.web.app/) 
+### Cyber Bay
+- Developed an interactive learning and challenge platform using **React**, **Tailwind CSS**, and **Framer Motion**.
+- Built hands-on learning experiences with interactive challenges, lab environments, learning journeys, and progress tracking.
+- Integrated reusable UI components and frontend systems to support a smooth and responsive user experience.
+- Worked with **REST APIs** and production-ready frontend workflows.
 
-### Attendance Management System
-- Expanded an **Attendance Management System** using **React**, **Bootstrap**, and **Axios**.
-- Enforced real-time check-in/check-out functionality with dynamic status updates.
-- Enabled **JWT-based authentication** for secure login and session management.
-- Created and customized data visualizations (Doughnut and Bar charts) with **Chart JS**.
-- Applied robust error handling and user-friendly design principles for a smooth user experience.
+### Tevel Cyber Website
+- Developed a modern and responsive corporate website for **Tevel Cyber Corps**.
+- Built structured service and content sections with a focus on clean UI, responsiveness, and interactive frontend experiences.
+- Implemented responsive layouts and smooth interactions across desktop and mobile devices.
 
-### Quick Receipt Application
-- Developed the frontend of a **Quick Receipt** application using **React** and **Bootstrap**, ensuring a seamless and responsive user interface.
-- Collaborated with the backend team to integrate **RESTful APIs**, enabling secure and efficient receipt data management.
-- Designed an intuitive step-by-step receipt generation process with features like real-time calculations for totals, taxes, and discounts, dynamic currency selection, and date pickers.
+### Tevel Techno Website
+- Developed a responsive corporate website with a clean and modern digital presence.
+- Built structured content sections and interactive frontend experiences for desktop and mobile devices.
+- Used **HTML5**, **CSS3**, **Bootstrap**, **JavaScript**, and **GSAP** to create responsive layouts and animations.
 
-
+### Naveen Portfolio
+- Developed a modern personal portfolio website focused on presenting professional work, skills, and digital experiences.
+- Created responsive layouts with interactive UI elements and smooth frontend experiences.
+- Focused on clean visual presentation, usability, and responsive design across devices.
 ---
 
 ### 📫 How to Reach Me  
@@ -79,20 +79,9 @@ Passionate about crafting visually stunning and user-friendly web applications t
   <a href="https://www.linkedin.com/in/janani-veeramani-076a652b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/JananiVeeramani">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
 </p>
 
 ---
-
-### 📊 Leetcode Stats  
-<p>
-  <img height="150" src="https://leetcard.jacoblin.cool/JananiVeeramani?ext=contest&theme=dark" alt="Leetcode stats" />
-</p>
-
----
-
 
 ### 🌟 Fun Facts About Me  
 - 🎨 I believe **design is thinking made visual**!  
