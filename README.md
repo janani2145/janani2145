@@ -1,6 +1,6 @@
 # Hi there 👋 It's me, **Janani Veeramani**  
 
-🔗 Check out my portfolio: [(https://jananiveeramani-f5772.web.app/)](https://janani-veeramani.vercel.app/)
+🔗 Check out my portfolio: [(https://janani-veeramani.vercel.app/)](https://janani-veeramani.vercel.app/)
 
 🌐 **Frontend Developer** | 🎨 **Creative Thinker**  
 
