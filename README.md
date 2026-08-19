@@ -85,7 +85,7 @@ Passionate about crafting visually stunning and user-friendly web applications t
 
 ### 🌟 Fun Facts About Me  
 - 🎨 I believe **design is thinking made visual**!  
-- 🌟 I love solving coding challenges on [LeetCode](https://leetcode.com/JananiVeeramani).  
+- 🌟 I love solving coding challenges
 - ✨ Building dashboards is my **happy place**.
 
 ---
